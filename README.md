@@ -1,3 +1,16 @@
+Hello!
+This is a project which I developed in collaboration with my coursemates from the University of Westminster for the "Software Development Group Project" module
+
+
+
+
+
+
+
+Underneath you'll see the original content of the readme file from the develpment phase:
+
+
+
 <<<<<<< HEAD
 # This repository is for Software Development Group Project. 🌱
 
