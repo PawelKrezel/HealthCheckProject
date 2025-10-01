@@ -1,4 +1,4 @@
-#Hello! This is a project which I developed in collaboration with my coursemates from the University of Westminster for the "Software Development Group Project" module
+# Hello! This is a project which I developed in collaboration with my coursemates from the University of Westminster for the "Software Development Group Project" module
 This was built in Django for the SkyTV team
 
 Python 3.13.0
